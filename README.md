@@ -1,1 +1,3 @@
 # Automatic_Time-Table_Generator
+
+This Automatic Time Table Generator, developed from scratch using C# and MS SQL, leverages a genetic algorithm to optimize scheduling. It automates timetable creation by considering constraints like teacher availability, classroom allocation, and subject requirements. The system provides a user-friendly interface for administrators to input data and generate schedules efficiently, ensuring optimal resource utilization and minimizing manual errors. This comprehensive solution is ideal for educational institutions seeking an efficient way to manage their timetables.
